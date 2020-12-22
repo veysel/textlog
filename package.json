@@ -1,0 +1,25 @@
+{
+  "name": "textlog",
+  "version": "1.0.0",
+  "description": "console log write for node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veysel/textlog.git"
+  },
+  "keywords": [
+    "textlog",
+    "text log",
+    "text",
+    "log"
+  ],
+  "author": "veysel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veysel/textlog/issues"
+  },
+  "homepage": "https://github.com/veysel/textlog#readme"
+}
