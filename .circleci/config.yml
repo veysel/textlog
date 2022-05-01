@@ -7,4 +7,4 @@ workflows:
     test-workflow:
       jobs:
         - node/test:
-            run-command: test
+            run-command: node test
