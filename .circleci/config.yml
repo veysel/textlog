@@ -8,6 +8,7 @@ jobs:
     docker:
       - image: cimg/node:16.10
     steps:
+      - run: npm i
       - attach_workspace:
           at: .
       - run:
